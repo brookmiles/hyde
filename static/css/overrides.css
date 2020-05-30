@@ -1,0 +1,23 @@
+/*
+ * Tweaks and overrides to poole.css
+ */
+
+.page,
+.post {
+  margin-bottom: 1em;
+}
+
+.post-date {
+  display: inline;
+  margin-top: -.5rem;
+  margin-bottom: 1rem;
+  color: #9a9a9a;
+}
+
+pre {
+  padding: 0.5em;
+}
+
+pre code {
+  font-size: 90%;
+}
